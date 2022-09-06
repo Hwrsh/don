@@ -21,8 +21,8 @@ br.addheaders = [ ( 'User-agent', 'Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.
 br.open("https://www.facebook.com/")
 br.geturl()
 
-print ("[+] TH3 PIN44K9 [+]")
-print ("[+] by Divy4nsh P4ndiiT [+]")
+print ("[+] TH3 D0N [+]")
+print ("[+] BY 4B D3VIILI3RS [+]")
 msg=str(input("Enter your Token : "))
 poct=str(input("Enter your post Link : "))
 npl=str(input(" Enter your np last line :  "))
@@ -169,4 +169,4 @@ def auto_post():
 if __name__ == '__main__':
     auto_post()
     print ("han chla gya comment!\n")
-#Code agar copy krte ho to nam mt htana made by divyansh pandit
+
